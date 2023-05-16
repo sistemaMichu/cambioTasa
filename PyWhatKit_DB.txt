@@ -1,0 +1,15 @@
+Date: 15/5/2023
+Time: 15:8
+Group ID: Rebels Without a Cause
+Message: PRUEBA MENSAJE DESDE PYTHON
+--------------------
+Date: 15/5/2023
+Time: 15:10
+Group ID: Rebels Without a Cause
+Message: PRUEBA MENSAJE DESDE PYTHON
+--------------------
+Date: 15/5/2023
+Time: 15:16
+Group ID: Rebels Without a Cause
+Message: PRUEBA MENSAJE DESDE PYTHON
+--------------------
